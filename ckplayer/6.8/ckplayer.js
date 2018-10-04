@@ -12,7 +12,7 @@ function ckcpt() {
 }
 function ckstyle() {
     var ck = {
-        cpath: 'http://7tsz9b.com1.z0.glb.clouddn.com/ckplayer/6.8/style.swf',
+        cpath: 'https://s.lepoi.com/ckplayer/6.8/style.swf',
         language: '',
         flashvars: '',
         setup: '1,1,1,1,1,2,0,1,2,0,0,1,200,0,2,1,0,1,1,1,1,10,3,0,1,2,3000,0,0,0,0,1,1,1,1,1,1,250,0,90,0,0,0',
@@ -23,7 +23,7 @@ function ckstyle() {
         pm_mylogo: '1,1,-46,-60',
         logo: '',
         pm_logo: '2,0,-100,20',
-        control_rel: 'http://7tsz9b.com1.z0.glb.clouddn.com/ckplayer/6.8/related.xml,0',
+        control_rel: 'related.xml,0',
         control_pv: 'Preview.swf,105,2000',
         pm_repc: '',
         pm_spac: '|',
@@ -43,7 +43,7 @@ function ckstyle() {
 		calljs:'ckplayer_status,ckadjump,playerstop,ckmarqueeadv',
         myweb: escape(''),
         cpt_lights: '1',
-        cpt_share: 'ckplayer/share.xml',
+        cpt_share: 'share.xml',
         cpt_list: ckcpt()
     }
     return ck;
