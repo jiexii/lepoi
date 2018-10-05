@@ -115,9 +115,10 @@ $(document).ready(function() {
 
 /*-----------------------------------------------------------------------------------*/
 /*	PRETTYPHOTO
-/*-----------------------------------------------------------------------------------*/
+/*-----------------------------------------------------------------------------------
 
 $(document).ready(function(){
 			$("a[rel^='prettyPhoto']").prettyPhoto({autoplay_slideshow: false, overlay_gallery: false, social_tools:false, deeplinking: false, theme:'pp_default', slideshow:5000});
 		});
 
+*/
