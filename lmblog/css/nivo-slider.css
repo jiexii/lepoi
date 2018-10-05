@@ -52,7 +52,7 @@
 	opacity:0.8; /* Overridden by captionOpacity setting */
 	width:auto;
 	max-width: 70%;
-	background: transparent url(../images/caption.png) repeat; 
+	background: transparent url(images/caption.png) repeat; 
 	color: #606060;
 	padding: 2px 5px; 
 	margin: 10px;
