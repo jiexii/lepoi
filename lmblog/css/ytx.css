@@ -1,0 +1,41 @@
+/*
+Theme Name: zl
+*/
+.avatar{
+float:left;
+margin-right:0px;
+padding:0px;
+border:1px solid #cfd9e1;
+width:56px;
+height:56px; 
+border-radius: 28px;
+-webkit-border-radius: 28px;
+-moz-border-radius:28px;   
+box-shadow: inset 0 -1px 0 #3333sf;
+-webkit-box-shadow: inset 0 -1px 0 #3333sf;   
+-webkit-transition: 0.4s;       
+-webkit-transition: -webkit-transform 0.4s ease-out;   
+transition: transform 0.4s ease-out;
+-moz-transition: -moz-transform 0.4s ease-out;   
+}    
+.avatar:hover{
+box-shadow: 0 0 10px #fff; rgba(255,255,255,.6), inset 0 0 20px rgba(255,255,255,1);   
+-webkit-box-shadow: 0 0 10px #fff; rgba(255,255,255,.6), inset 0 0 20px rgba(255,255,255,1);   
+transform: rotateZ(360deg);
+-webkit-transform: rotateZ(360deg);   
+-moz-transform: rotateZ(360deg); } 
+#masthead .avatar{
+width:64px;
+height:64px
+border-radius: 32px;
+-webkit-border-radius: 32px;
+-moz-border-radius:32px;   
+}
+#creditrank-2 .avatar{
+width:30px;
+height:30px
+}
+#creditrank-3 .avatar{
+width:30px;
+height:30px
+}
