@@ -1450,20 +1450,20 @@ ul.latest-posts li em.month {
 }
 
 .post .content .top {
-	background: transparent url(style/images/top.png) no-repeat;
+	background: transparent url(images/top.png) no-repeat;
 	height: 17px;
 }
 
 .post .con .top {
-	background: transparent url(style/images/top1.png) no-repeat;
+	background: transparent url(images/top1.png) no-repeat;
 	height: 17px;
 }
 
 .post .content .middle {
-	background: transparent url(style/images/middle.png) repeat-y;
+	background: transparent url(images/middle.png) repeat-y;
 }
 .post .con .middle {
-	background: transparent url(style/images/middle1.png) repeat-y;
+	background: transparent url(images/middle1.png) repeat-y;
 }
 .post .content .middle .post-text {
 	padding: 8px 25px 0 25px;	
@@ -1562,7 +1562,7 @@ ul.latest-posts li em.month {
 }
 
 .post .content .middle .meta {
-	background: transparent url(style/images/line2.png) top repeat-x;
+	background: transparent url(images/line2.png) top repeat-x;
 	padding: 15px 0 8px 0;
 	margin: 0 25px;
 }
@@ -1575,7 +1575,7 @@ ul.latest-posts li em.month {
 	display: inline;
 	padding-right: 5px;
 	padding-left: 12px;
-	background: transparent url(style/images/dot2.png) no-repeat left center;
+	background: transparent url(images/dot2.png) no-repeat left center;
 }
 
 .post .content .middle .meta ul.post-info li:first-child {
@@ -1601,26 +1601,26 @@ ul.latest-posts li em.month {
 }
 
 .post .content .middle .meta span.post-comment {
-	background: transparent url(style/images/icon-postcomment.png) no-repeat left center;
+	background: transparent url(images/icon-postcomment.png) no-repeat left center;
 	width: 15px;
 	padding-left: 20px;
 	
 }
 
 .post .content .middle .meta span.post-link {
-	background: transparent url(style/images/icon-postlink.png) no-repeat left center;
+	background: transparent url(images/icon-postlink.png) no-repeat left center;
 	width: 16px;
 	padding-left: 20px;
 }
 
 .post .content .middle .meta span.post-tag {
-	background: transparent url(style/images/icon-posttag.png) no-repeat left center;
+	background: transparent url(images/icon-posttag.png) no-repeat left center;
 	width: 12px;
 	padding-left: 18px;
 }
 
 .post .content .middle .meta span.post-share {
-	background: transparent url(style/images/icon-postshare.png) no-repeat left center;
+	background: transparent url(images/icon-postshare.png) no-repeat left center;
 	width: 8px;
 	padding-left: 13px;
 }
@@ -1631,12 +1631,12 @@ ul.latest-posts li em.month {
 }
 
 .post .content .bottom {
-	background: transparent url(style/images/bottom.png) no-repeat;
+	background: transparent url(images/bottom.png) no-repeat;
 	height: 17px;
 }
 
 .post .con .bottom {
-	background: transparent url(style/images/bottom1.png) no-repeat;
+	background: transparent url(images/bottom1.png) no-repeat;
 	height: 23px;
 }
 
