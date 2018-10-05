@@ -15,10 +15,10 @@
 }
 .zoom, .visit {
 	position: absolute;
-	background: transparent url(../images/icon-video.png) no-repeat center center;
+	background: transparent url(images/icon-zoom.png) no-repeat center center;
 }
 .zoom {
-	background-image: url(../images/icon-video.png);
+	background-image: url(images/icon-zoom.png);
 }
 .visit {
 	background-image: url(images/icon-visit.png);
